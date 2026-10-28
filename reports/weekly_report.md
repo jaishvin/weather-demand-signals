@@ -1,5 +1,5 @@
 # Weekly weather demand signals
-_Generated automatically on 29 Oct 2026, 01:58 IST by GitHub Actions. Data: [Open-Meteo](https://open-meteo.com/)._
+_Generated automatically on 29 Oct 2026, 02:08 IST by GitHub Actions. Data: [Open-Meteo](https://open-meteo.com/)._
 
 ## Summary: next 14 days
 | City | Heat days | Heavy rain days | Cold snap days | First flag | Watch-list |

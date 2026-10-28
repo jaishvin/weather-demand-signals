@@ -10,7 +10,7 @@ how far each day sits from the *normal* weather for that city and time of year.
 
 ## This week's signals
 <!-- REPORT:START -->
-**Latest run: 29 Oct 2026, 01:58 IST**. [Full report](reports/weekly_report.md)
+**Latest run: 29 Oct 2026, 02:08 IST**. [Full report](reports/weekly_report.md)
 
 | City | Heat days | Heavy rain days | Cold snap days | First flag | Watch-list |
 |---|---|---|---|---|---|
