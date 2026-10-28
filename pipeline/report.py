@@ -34,13 +34,13 @@ def make_chart(f: pd.DataFrame, path) -> None:
     for ax, city in zip(axes.flat, cities):
         c = f[f["city"] == city].sort_values("date")
         ax.fill_between(c["date"], c["tmax_normal"] - c["tmax_std"], c["tmax_normal"] + c["tmax_std"],
-                        color="#c9d6e8", label="normal range (±1 sd)")
+                        color="#9fb3cf", alpha=0.35, lw=0, label="normal range (±1 sd)")
         ax.plot(c["date"], c["tmax_normal"], color="#7d8fa6", lw=1, ls="--", label="normal max")
         ax.plot(c["date"], c["tmax"], color="#d1495b", lw=2, marker="o", ms=3, label="forecast max")
         ax.set_title(city, fontsize=11, loc="left")
         ax.set_ylabel("°C")
         ax2 = ax.twinx()
-        ax2.bar(c["date"], c["precip"], color="#2a6fdb", alpha=0.35, width=0.8, label="rain (mm)")
+        ax2.bar(c["date"], c["precip"], color="#2a6fdb", alpha=0.5, width=0.8, label="rain (mm)")
         ax2.set_ylim(0, max(40, c["precip"].max() * 1.3 if len(c) else 40))
         ax2.set_ylabel("mm", color="#2a6fdb")
         ax.set_zorder(ax2.get_zorder() + 1)   # keep the temperature line above the rain bars
@@ -49,7 +49,7 @@ def make_chart(f: pd.DataFrame, path) -> None:
         ax.tick_params(axis="x", rotation=45, labelsize=8)
         ax.grid(alpha=0.3)
     handles, labels = axes.flat[0].get_legend_handles_labels()
-    fig.legend(handles + [plt.Rectangle((0, 0), 1, 1, color="#2a6fdb", alpha=0.35)], labels + ["rain (mm)"],
+    fig.legend(handles + [plt.Rectangle((0, 0), 1, 1, color="#2a6fdb", alpha=0.5)], labels + ["rain (mm)"],
                loc="lower center", ncol=4, frameon=False, bbox_to_anchor=(0.5, -0.04))
     fig.suptitle("Next 14 days: forecast vs seasonal normal", fontsize=13)
     fig.tight_layout()
