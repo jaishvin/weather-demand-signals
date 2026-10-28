@@ -1,0 +1,1 @@
+"""Weather demand-signal pipeline."""
