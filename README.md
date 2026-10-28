@@ -10,7 +10,18 @@ how far each day sits from the *normal* weather for that city and time of year.
 
 ## This week's signals
 <!-- REPORT:START -->
-_The first scheduled run fills this section automatically._
+**Latest run: 29 Oct 2026, 01:58 IST**. [Full report](reports/weekly_report.md)
+
+| City | Heat days | Heavy rain days | Cold snap days | First flag | Watch-list |
+|---|---|---|---|---|---|
+| Mumbai | 6 | 0 | 0 | 07 Nov | Summer cottons, linen, sunglasses, sunscreen |
+| Delhi | 2 | 0 | 0 | 08 Nov | Summer cottons, linen, sunglasses, sunscreen |
+| Bengaluru | 2 | 1 | 0 | 31 Oct | Summer cottons, linen, sunglasses, sunscreen; Rainwear, waterproof footwear, umbrellas |
+| Hyderabad | 6 | 0 | 0 | 30 Oct | Summer cottons, linen, sunglasses, sunscreen |
+| Chennai | 0 | 0 | 0 | — | No unusual weather |
+| Kolkata | 0 | 0 | 0 | — | No unusual weather |
+
+![Forecast vs normal](reports/forecast_vs_normal.png)
 <!-- REPORT:END -->
 
 ## How it works

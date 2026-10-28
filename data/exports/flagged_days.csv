@@ -1,0 +1,18 @@
+city,date,signal,value,normal,z,unit
+Hyderabad,2026-10-30,Heat,31.9,29.27,1.93,°C max
+Bengaluru,2026-10-31,Heat,31.0,27.06,2.42,°C max
+Hyderabad,2026-10-31,Heat,32.9,29.32,2.75,°C max
+Bengaluru,2026-11-01,Heat,30.5,27.05,2.18,°C max
+Hyderabad,2026-11-02,Heat,32.0,29.33,2.35,°C max
+Bengaluru,2026-11-03,Heavy rain,18.6,8.12,,mm (normal = 90th pct)
+Mumbai,2026-11-07,Heat,35.6,32.65,1.7,°C max
+Delhi,2026-11-08,Heat,31.7,28.53,1.69,°C max
+Mumbai,2026-11-08,Heat,35.8,32.73,1.79,°C max
+Hyderabad,2026-11-09,Heat,30.6,29.29,1.5,°C max
+Mumbai,2026-11-09,Heat,36.0,32.83,1.93,°C max
+Hyderabad,2026-11-10,Heat,30.7,29.28,1.64,°C max
+Mumbai,2026-11-10,Heat,35.4,32.94,1.63,°C max
+Hyderabad,2026-11-11,Heat,30.7,29.22,1.63,°C max
+Mumbai,2026-11-11,Heat,35.6,32.94,1.77,°C max
+Delhi,2026-11-12,Heat,31.6,27.46,2.18,°C max
+Mumbai,2026-11-12,Heat,35.5,32.93,1.84,°C max
