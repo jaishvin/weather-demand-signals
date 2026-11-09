@@ -1,18 +1,17 @@
 city,date,signal,value,normal,z,unit
-Mumbai,2026-11-05,Heat,35.4,32.5,1.6,°C max
-Mumbai,2026-11-06,Heat,35.6,32.55,1.69,°C max
-Mumbai,2026-11-07,Heat,35.7,32.65,1.75,°C max
-Mumbai,2026-11-08,Heat,36.1,32.73,1.96,°C max
-Mumbai,2026-11-09,Heat,35.8,32.83,1.81,°C max
-Kolkata,2026-11-10,Heat,31.3,29.37,1.58,°C max
-Mumbai,2026-11-10,Heat,35.3,32.94,1.56,°C max
-Hyderabad,2026-11-11,Heat,30.8,29.22,1.74,°C max
-Kolkata,2026-11-12,Heat,31.1,29.19,1.56,°C max
-Hyderabad,2026-11-13,Heat,31.0,29.05,1.77,°C max
-Kolkata,2026-11-13,Heat,31.3,29.16,1.77,°C max
-Mumbai,2026-11-13,Heat,35.1,32.93,1.64,°C max
-Hyderabad,2026-11-14,Heat,30.8,28.99,1.63,°C max
-Mumbai,2026-11-14,Heat,35.3,32.95,1.88,°C max
-Mumbai,2026-11-15,Heat,35.6,32.93,2.1,°C max
-Hyderabad,2026-11-16,Heat,31.5,28.99,2.15,°C max
-Mumbai,2026-11-16,Heat,35.8,32.89,2.24,°C max
+Bengaluru,2026-11-10,Heat,29.4,26.6,1.61,°C max
+Mumbai,2026-11-10,Heat,35.4,32.94,1.63,°C max
+Bengaluru,2026-11-11,Heat,29.8,26.49,1.8,°C max
+Bengaluru,2026-11-12,Heat,30.1,26.41,1.93,°C max
+Bengaluru,2026-11-13,Heat,29.5,26.39,1.6,°C max
+Bengaluru,2026-11-14,Heat,29.8,26.42,1.72,°C max
+Bengaluru,2026-11-15,Heat,29.9,26.43,1.76,°C max
+Bengaluru,2026-11-16,Heat,29.4,26.41,1.52,°C max
+Kolkata,2026-11-16,Heat,31.1,29.02,1.81,°C max
+Bengaluru,2026-11-17,Heat,29.6,26.45,1.63,°C max
+Chennai,2026-11-17,Heavy rain,84.6,34.48,,mm (normal = 90th pct)
+Kolkata,2026-11-17,Heat,31.5,28.94,2.23,°C max
+Chennai,2026-11-18,Heavy rain,112.2,33.82,,mm (normal = 90th pct)
+Kolkata,2026-11-18,Heat,30.7,28.83,1.64,°C max
+Mumbai,2026-11-19,Heat,36.1,32.82,2.55,°C max
+Mumbai,2026-11-20,Heat,35.3,32.73,1.96,°C max
