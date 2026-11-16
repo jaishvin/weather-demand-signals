@@ -10,16 +10,16 @@ how far each day sits from the *normal* weather for that city and time of year.
 
 ## This week's signals
 <!-- REPORT:START -->
-**Latest run: 09 Nov 2026, 15:25 IST**. [Full report](reports/weekly_report.md)
+**Latest run: 16 Nov 2026, 15:23 IST**. [Full report](reports/weekly_report.md)
 
 | City | Heat days | Heavy rain days | Cold snap days | First flag | Watch-list |
 |---|---|---|---|---|---|
-| Mumbai | 3 | 0 | 0 | 10 Nov | Summer cottons, linen, sunglasses, sunscreen |
+| Mumbai | 1 | 0 | 0 | 24 Nov | Summer cottons, linen, sunglasses, sunscreen |
 | Delhi | 0 | 0 | 0 | — | No unusual weather |
-| Bengaluru | 8 | 0 | 0 | 10 Nov | Summer cottons, linen, sunglasses, sunscreen |
-| Hyderabad | 0 | 0 | 0 | — | No unusual weather |
-| Chennai | 0 | 2 | 0 | 17 Nov | Rainwear, waterproof footwear, umbrellas |
-| Kolkata | 3 | 0 | 0 | 16 Nov | Summer cottons, linen, sunglasses, sunscreen |
+| Bengaluru | 7 | 0 | 2 | 19 Nov | Summer cottons, linen, sunglasses, sunscreen; Jackets, sweatshirts, thermals |
+| Hyderabad | 6 | 0 | 0 | 22 Nov | Summer cottons, linen, sunglasses, sunscreen |
+| Chennai | 7 | 0 | 2 | 17 Nov | Summer cottons, linen, sunglasses, sunscreen; Jackets, sweatshirts, thermals |
+| Kolkata | 0 | 3 | 0 | 20 Nov | Rainwear, waterproof footwear, umbrellas |
 
 ![Forecast vs normal](reports/forecast_vs_normal.png)
 <!-- REPORT:END -->

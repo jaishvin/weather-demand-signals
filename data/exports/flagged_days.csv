@@ -1,17 +1,29 @@
 city,date,signal,value,normal,z,unit
-Bengaluru,2026-11-10,Heat,29.4,26.6,1.61,°C max
-Mumbai,2026-11-10,Heat,35.4,32.94,1.63,°C max
-Bengaluru,2026-11-11,Heat,29.8,26.49,1.8,°C max
-Bengaluru,2026-11-12,Heat,30.1,26.41,1.93,°C max
-Bengaluru,2026-11-13,Heat,29.5,26.39,1.6,°C max
-Bengaluru,2026-11-14,Heat,29.8,26.42,1.72,°C max
-Bengaluru,2026-11-15,Heat,29.9,26.43,1.76,°C max
-Bengaluru,2026-11-16,Heat,29.4,26.41,1.52,°C max
-Kolkata,2026-11-16,Heat,31.1,29.02,1.81,°C max
-Bengaluru,2026-11-17,Heat,29.6,26.45,1.63,°C max
-Chennai,2026-11-17,Heavy rain,84.6,34.48,,mm (normal = 90th pct)
-Kolkata,2026-11-17,Heat,31.5,28.94,2.23,°C max
-Chennai,2026-11-18,Heavy rain,112.2,33.82,,mm (normal = 90th pct)
-Kolkata,2026-11-18,Heat,30.7,28.83,1.64,°C max
-Mumbai,2026-11-19,Heat,36.1,32.82,2.55,°C max
-Mumbai,2026-11-20,Heat,35.3,32.73,1.96,°C max
+Chennai,2026-11-17,Heat,31.4,28.48,1.99,°C max
+Chennai,2026-11-18,Heat,30.9,28.46,1.78,°C max
+Bengaluru,2026-11-19,Heat,29.4,26.62,1.77,°C max
+Chennai,2026-11-19,Heat,31.2,28.42,2.18,°C max
+Bengaluru,2026-11-20,Heat,29.8,26.57,2.04,°C max
+Chennai,2026-11-20,Heat,33.2,28.34,3.94,°C max
+Kolkata,2026-11-20,Heavy rain,63.6,0.0,,mm (normal = 90th pct)
+Bengaluru,2026-11-21,Heat,30.0,26.54,2.16,°C max
+Chennai,2026-11-21,Heat,32.5,28.3,3.47,°C max
+Kolkata,2026-11-21,Heavy rain,36.0,0.0,,mm (normal = 90th pct)
+Bengaluru,2026-11-22,Heat,30.0,26.5,2.08,°C max
+Chennai,2026-11-22,Heat,31.1,28.25,2.39,°C max
+Hyderabad,2026-11-22,Heat,31.3,28.81,2.04,°C max
+Kolkata,2026-11-22,Heavy rain,37.8,0.0,,mm (normal = 90th pct)
+Bengaluru,2026-11-23,Heat,31.0,26.42,2.56,°C max
+Chennai,2026-11-23,Heat,30.1,28.14,1.63,°C max
+Hyderabad,2026-11-23,Heat,31.7,28.76,2.41,°C max
+Bengaluru,2026-11-24,Heat,30.1,26.33,2.06,°C max
+Hyderabad,2026-11-24,Heat,31.1,28.77,1.97,°C max
+Mumbai,2026-11-24,Heat,35.1,32.14,1.78,°C max
+Hyderabad,2026-11-25,Heat,30.5,28.76,1.5,°C max
+Hyderabad,2026-11-26,Heat,31.0,28.78,1.94,°C max
+Hyderabad,2026-11-27,Heat,30.7,28.85,1.71,°C max
+Bengaluru,2026-11-29,Cold snap,16.6,18.37,-1.63,°C min
+Chennai,2026-11-29,Cold snap,21.5,23.71,-2.56,°C min
+Bengaluru,2026-11-30,Cold snap,16.4,18.33,-1.79,°C min
+Bengaluru,2026-11-30,Heat,28.9,26.23,1.67,°C max
+Chennai,2026-11-30,Cold snap,21.3,23.71,-2.96,°C min

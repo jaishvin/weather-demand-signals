@@ -1,15 +1,15 @@
 # Weekly weather demand signals
-_Generated automatically on 09 Nov 2026, 15:25 IST by GitHub Actions. Data: [Open-Meteo](https://open-meteo.com/)._
+_Generated automatically on 16 Nov 2026, 15:23 IST by GitHub Actions. Data: [Open-Meteo](https://open-meteo.com/)._
 
 ## Summary: next 14 days
 | City | Heat days | Heavy rain days | Cold snap days | First flag | Watch-list |
 |---|---|---|---|---|---|
-| Mumbai | 3 | 0 | 0 | 10 Nov | Summer cottons, linen, sunglasses, sunscreen |
+| Mumbai | 1 | 0 | 0 | 24 Nov | Summer cottons, linen, sunglasses, sunscreen |
 | Delhi | 0 | 0 | 0 | — | No unusual weather |
-| Bengaluru | 8 | 0 | 0 | 10 Nov | Summer cottons, linen, sunglasses, sunscreen |
-| Hyderabad | 0 | 0 | 0 | — | No unusual weather |
-| Chennai | 0 | 2 | 0 | 17 Nov | Rainwear, waterproof footwear, umbrellas |
-| Kolkata | 3 | 0 | 0 | 16 Nov | Summer cottons, linen, sunglasses, sunscreen |
+| Bengaluru | 7 | 0 | 2 | 19 Nov | Summer cottons, linen, sunglasses, sunscreen; Jackets, sweatshirts, thermals |
+| Hyderabad | 6 | 0 | 0 | 22 Nov | Summer cottons, linen, sunglasses, sunscreen |
+| Chennai | 7 | 0 | 2 | 17 Nov | Summer cottons, linen, sunglasses, sunscreen; Jackets, sweatshirts, thermals |
+| Kolkata | 0 | 3 | 0 | 20 Nov | Rainwear, waterproof footwear, umbrellas |
 
 Watch-list categories are an illustrative mapping for demand planners. Validate against sales data before acting.
 
@@ -18,37 +18,50 @@ Watch-list categories are an illustrative mapping for demand planners. Validate 
 ## Flagged days
 | Date | City | Signal | Forecast | Normal | z-score | Unit |
 |---|---|---|---|---|---|---|
-| Tue 10 Nov | Bengaluru | Heat | 29.4 | 26.6 | 1.6 | °C max |
-| Tue 10 Nov | Mumbai | Heat | 35.4 | 32.9 | 1.6 | °C max |
-| Wed 11 Nov | Bengaluru | Heat | 29.8 | 26.5 | 1.8 | °C max |
-| Thu 12 Nov | Bengaluru | Heat | 30.1 | 26.4 | 1.9 | °C max |
-| Fri 13 Nov | Bengaluru | Heat | 29.5 | 26.4 | 1.6 | °C max |
-| Sat 14 Nov | Bengaluru | Heat | 29.8 | 26.4 | 1.7 | °C max |
-| Sun 15 Nov | Bengaluru | Heat | 29.9 | 26.4 | 1.8 | °C max |
-| Mon 16 Nov | Bengaluru | Heat | 29.4 | 26.4 | 1.5 | °C max |
-| Mon 16 Nov | Kolkata | Heat | 31.1 | 29.0 | 1.8 | °C max |
-| Tue 17 Nov | Bengaluru | Heat | 29.6 | 26.4 | 1.6 | °C max |
-| Tue 17 Nov | Chennai | Heavy rain | 84.6 | 34.5 | — | mm (normal = 90th pct) |
-| Tue 17 Nov | Kolkata | Heat | 31.5 | 28.9 | 2.2 | °C max |
-| Wed 18 Nov | Chennai | Heavy rain | 112.2 | 33.8 | — | mm (normal = 90th pct) |
-| Wed 18 Nov | Kolkata | Heat | 30.7 | 28.8 | 1.6 | °C max |
-| Thu 19 Nov | Mumbai | Heat | 36.1 | 32.8 | 2.5 | °C max |
-| Fri 20 Nov | Mumbai | Heat | 35.3 | 32.7 | 2.0 | °C max |
+| Tue 17 Nov | Chennai | Heat | 31.4 | 28.5 | 2.0 | °C max |
+| Wed 18 Nov | Chennai | Heat | 30.9 | 28.5 | 1.8 | °C max |
+| Thu 19 Nov | Bengaluru | Heat | 29.4 | 26.6 | 1.8 | °C max |
+| Thu 19 Nov | Chennai | Heat | 31.2 | 28.4 | 2.2 | °C max |
+| Fri 20 Nov | Bengaluru | Heat | 29.8 | 26.6 | 2.0 | °C max |
+| Fri 20 Nov | Chennai | Heat | 33.2 | 28.3 | 3.9 | °C max |
+| Fri 20 Nov | Kolkata | Heavy rain | 63.6 | 0.0 | — | mm (normal = 90th pct) |
+| Sat 21 Nov | Bengaluru | Heat | 30.0 | 26.5 | 2.2 | °C max |
+| Sat 21 Nov | Chennai | Heat | 32.5 | 28.3 | 3.5 | °C max |
+| Sat 21 Nov | Kolkata | Heavy rain | 36.0 | 0.0 | — | mm (normal = 90th pct) |
+| Sun 22 Nov | Bengaluru | Heat | 30.0 | 26.5 | 2.1 | °C max |
+| Sun 22 Nov | Chennai | Heat | 31.1 | 28.2 | 2.4 | °C max |
+| Sun 22 Nov | Hyderabad | Heat | 31.3 | 28.8 | 2.0 | °C max |
+| Sun 22 Nov | Kolkata | Heavy rain | 37.8 | 0.0 | — | mm (normal = 90th pct) |
+| Mon 23 Nov | Bengaluru | Heat | 31.0 | 26.4 | 2.6 | °C max |
+| Mon 23 Nov | Chennai | Heat | 30.1 | 28.1 | 1.6 | °C max |
+| Mon 23 Nov | Hyderabad | Heat | 31.7 | 28.8 | 2.4 | °C max |
+| Tue 24 Nov | Bengaluru | Heat | 30.1 | 26.3 | 2.1 | °C max |
+| Tue 24 Nov | Hyderabad | Heat | 31.1 | 28.8 | 2.0 | °C max |
+| Tue 24 Nov | Mumbai | Heat | 35.1 | 32.1 | 1.8 | °C max |
+| Wed 25 Nov | Hyderabad | Heat | 30.5 | 28.8 | 1.5 | °C max |
+| Thu 26 Nov | Hyderabad | Heat | 31.0 | 28.8 | 1.9 | °C max |
+| Fri 27 Nov | Hyderabad | Heat | 30.7 | 28.8 | 1.7 | °C max |
+| Sun 29 Nov | Bengaluru | Cold snap | 16.6 | 18.4 | -1.6 | °C min |
+| Sun 29 Nov | Chennai | Cold snap | 21.5 | 23.7 | -2.6 | °C min |
+| Mon 30 Nov | Bengaluru | Cold snap | 16.4 | 18.3 | -1.8 | °C min |
+| Mon 30 Nov | Bengaluru | Heat | 28.9 | 26.2 | 1.7 | °C max |
+| Mon 30 Nov | Chennai | Cold snap | 21.3 | 23.7 | -3.0 | °C min |
 
 ## Forecast accuracy check
 Past forecasts stored by this pipeline, compared with the actual weather (MAE = mean absolute error).
 
 | lead_time | n_forecasts | mae_tmax_c | bias_tmax_c | mae_precip_mm |
 |---|---|---|---|---|
-| 1-3 days | 30 | 0.98 | 0.02 | 3.23 |
-| 4-7 days | 18 | 1.68 | 0.29 | 4.38 |
+| 1-3 days | 48 | 0.81 | -0.12 | 2.20 |
+| 4-7 days | 48 | 1.21 | -0.30 | 2.46 |
+| 8-14 days | 48 | 1.33 | -0.43 | 1.42 |
 
 ## Data coverage
 | city | days_stored | first_date | last_date |
 |---|---|---|---|
-| Bengaluru | 1833 | 2021-10-29 | 2026-11-04 |
-| Chennai | 1833 | 2021-10-29 | 2026-11-04 |
-| Delhi | 1833 | 2021-10-29 | 2026-11-04 |
-| Hyderabad | 1833 | 2021-10-29 | 2026-11-04 |
-| Kolkata | 1833 | 2021-10-29 | 2026-11-04 |
-| Mumbai | 1833 | 2021-10-29 | 2026-11-04 |
+| Bengaluru | 1840 | 2021-10-29 | 2026-11-11 |
+| Chennai | 1840 | 2021-10-29 | 2026-11-11 |
+| Delhi | 1840 | 2021-10-29 | 2026-11-11 |
+| Hyderabad | 1840 | 2021-10-29 | 2026-11-11 |
+| Kolkata | 1840 | 2021-10-29 | 2026-11-11 |
+| Mumbai | 1840 | 2021-10-29 | 2026-11-11 |
